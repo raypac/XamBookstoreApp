@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/XamBookstoreApp.Api/bin
+/XamBookstoreApp.Api/obj
+/XamBookstoreApp.Mob/XamBookstoreApp.Mob/bin/Debug/netstandard2.0
+/XamBookstoreApp.Mob/XamBookstoreApp.Mob/obj
+/XamBookstoreApp.Mob/XamBookstoreApp.Mob.Android/bin/Debug
+/XamBookstoreApp.Mob/XamBookstoreApp.Mob.Android/obj
